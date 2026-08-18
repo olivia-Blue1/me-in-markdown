@@ -1,7 +1,7 @@
 # me-in-markdown
 Hello, my name is Olivia. I am currently in 9th grade and im actually kindof excited to learn coding this year. I personally connot pick just one movie for my favorites because i love so many!! though if i had to pick atleast top 5 it would be: 
 
- 1. Juno
+ 1. <u> juno </u>
 2. 10 Things i hate about you
 3. 500 days of summer
 4. The perks of being a wallflower 
@@ -24,4 +24,14 @@ this collage includes photos of:
 
 # playlist with <u>SOME</u> of my favorite songs.
 
-[Playlist 4 mr.aiello!](https://open.spotify.com/playlist/6rRh35Rl2IEM7uH7YgwK6p?si=ui0BGDSRRsqZisef8DtOvg&utm_source=copy-link&pi=ds3b7MipQl-_u)
+[Playlist 4 mr.aiello! + the happy birthday song.](https://open.spotify.com/playlist/6rRh35Rl2IEM7uH7YgwK6p?si=ui0BGDSRRsqZisef8DtOvg&utm_source=copy-link&pi=ds3b7MipQl-_u)
+
+| track name | artist | rating (1/10)|
+| --- | --- | ---| 
+| Leviathan |Leathermouth.| 8/10 
+| not that kind of girl| MCR| 10/10 `(my fav song)`
+| Neatfreak47| 3OH!3 | 7/10 | 
+| Pretty in Punk| FOB| 9/10| 
+| im a fake | the used| 9/10|
+
+all of the songs on this playlist mean alot to me. ALL music means alot to me because what i grew up around and its helped me through times that werent so happy. but the ones i rated are the ones that are `most special` and mean the <u> ABsOLUTE </u> most to me!!
