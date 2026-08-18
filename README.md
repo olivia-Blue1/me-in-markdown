@@ -1,4 +1,9 @@
 # me-in-markdown
-Hello, my name is Olivia. I am currently in 9th grade and im actually kindof excited to learn coding this year. I personally connot pick just one movie for my favorites because i love so many!! though if i had to pick atleast top 5 it would be: Juno, 10 things i hate about you, 500 days of summer, perks of being a wallflower, and Just go with it. 
+Hello, my name is Olivia. I am currently in 9th grade and im actually kindof excited to learn coding this year. I personally connot pick just one movie for my favorites because i love so many!! though if i had to pick atleast top 5 it would be: Juno, 10 things i hate about you, 500 days of summer, perks of being a wallflower, and Just go with it.A milestone i reached recently would probably be going into my first year of highschool...lol.
 
-A milestone i reached recently would probably be going into my first year of highschool...lol. 
+ Goals I have for this year are passing all of my classes with a B or highter and making atleast one new friend! This summer break i went to Laughlin nevada with my mom, my friend, and my aunt. I also tried consistently going to the gym with my mom and i did for a while, though as the first day of school came closer i kind of just quit.
+ 
+  However what i have been doing all of this summer is art! More specifically ive been making bracelets, photocards and buttons.Ill insert a photo under this last paragraph. I barely hung out with any of my friends this summer i was home the whole time :(. Though one of the hangouts that was really special to me was when right before me and my mom left to lauglin, my best friend chevelle flew in from Washinton state and went to laughlin with me. That was so fun. i miss her. I used to really want to be a vet, however i realized as much as i loved animals that being a vet probably wasnt the best carrer option for me. Now i want to be a teacher and im really set on this despite the fact my mom is clearly trying to set my mind somewhere with a better pay.I still have three years to figure out what i want to do for the rest of my life. 
+  
+  # My fav things collage
+  ![fav things collage]
